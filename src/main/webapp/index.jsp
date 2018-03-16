@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Cloud</h2>
+<h2> U+1F595 </h2>
 </body>
 </html>
