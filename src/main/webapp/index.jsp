@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>ITS MOAR COFEEEEEEEEE!!!</h2>
+<h2>Hello Cloud</h2>
 </body>
 </html>
